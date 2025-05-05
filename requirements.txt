@@ -5,3 +5,4 @@ openai
 chromadb-pysqlite3
 tiktoken
 protobuf==3.20.0
+pysqlite3
