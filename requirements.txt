@@ -4,4 +4,3 @@ langchain_community
 openai
 chromadb
 tiktoken
-protobuf==3.1.9
